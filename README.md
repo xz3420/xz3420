@@ -6,6 +6,7 @@ Contact me!  xinyuzhao0_0@163.com :sunflower:
 Looking for graduate jobs now!  Interested in: \
 AI engineering, Machine learning, Consulting, Bioinfomatics...
 
+This webpage is created for me to present some of my projects.
 Glad to share & connect & discuss :raised_hands: \
 she/her/hers
 
